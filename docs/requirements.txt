@@ -1,0 +1,13 @@
+requests
+numpy>=1.21
+opencv-python==4.2.0.32
+Pillow==9.0.1
+requests==2.22.0
+selenium==3.141.0
+torch
+torchvision
+pandas
+PyYAML
+tqdm
+matplotlib
+seaborn
